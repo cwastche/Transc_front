@@ -1,0 +1,47 @@
+* LOGIN PAGE (42 auth)
+
+UI
+* CUSTOM NAME
+* AVATAR (+ default)
+* ENABLE 2factor AUTH
+* ADD FRIENDS
+	-> See current status
+
+* STATS DISPLAYED ON USER PROFILE
+	-> W/L
+	-> Ladder level
+	-> Achievements ?
+	-> ...
+
+* MATCH HISTORY (-> CAN BE CONSULTED BY OTHERS)
+ -> 1v1
+ -> Ladder
+ -> ...
+
+ CHAT
+ * Create channels (Chat room) -> (Creator == owner until they leave)
+	->public (Can be protected by pw)
+	->private
+* Send direct msg to other user
+
+* Block other user
+ -> block list
+
+ Chat room:
+ * Owner can set pw, change it or remove it
+ * Owner is also Admin. Can set other users as Admin
+
+ * Admin
+	-> kick
+	-> ban
+	-> mute
+	(CANNOT DO TO CHANNEL OWNER)
+
+* Invite to game of pong
+
+* Access profile of users through chat
+
+PONG
+*Matchmaking system
+*CUSTOM + DEFAULT Pong
+
